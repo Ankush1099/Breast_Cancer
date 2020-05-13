@@ -2,8 +2,8 @@
 
  CASE STUDY: BREAST CANCER CLASSIFICATION
  
- PROBLEM STATEMENT :-
-     - Predicting if the cancer diagnosis is benign or malignant based on several observations/features 
+ PROBLEM STATEMENT :
+     - Predicting if the cancer diagnosis is benign or malignant based on several observations/features.
      
      - 30 features are used, examples:
           - radius (mean of distances from center to points on the perimeter)
