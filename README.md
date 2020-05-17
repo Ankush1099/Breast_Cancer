@@ -1,8 +1,8 @@
 # Breast_Cancer
 
- CASE STUDY: BREAST CANCER CLASSIFICATION
+# CASE STUDY: BREAST CANCER CLASSIFICATION
  
- PROBLEM STATEMENT :
+# PROBLEM STATEMENT 
      - Predicting if the cancer diagnosis is benign or malignant based on several observations/features.
      
      - 30 features are used, examples:
@@ -23,4 +23,5 @@
            - Malignant
            - Benign
  
-    Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+ # Dataset 
+ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
